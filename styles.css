@@ -50,18 +50,27 @@ ul {
 }
 
 #highlights-header{
-    margin-left: 232px;
     margin-top: 50px;
 }
 
 .highlights{
     border-radius: 5px;
-    margin-left: 232px;
     margin-top: 25px;
     height: 1000px;
     width: 1015px;
     background-color: #B7B7A5;
     position: relative;
+}
+
+.highlight_photos{
+  height: 200px;
+  width: 300px;
+  border-radius: 5px;
+}
+
+.learn_more{
+  border-radius: 5px;
+  margin-left: 210px;
 }
 
 * {
